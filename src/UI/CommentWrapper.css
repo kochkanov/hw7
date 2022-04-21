@@ -1,10 +1,14 @@
 
 body{
     box-sizing: border-box;
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: first baseline;
 }
 .wrapper{
     background-color: coral;
     box-shadow: 1px 2px;
+    
 }
 
 .UserInfo1{
