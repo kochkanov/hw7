@@ -1,0 +1,23 @@
+
+body{
+    box-sizing: border-box;
+}
+.wrapper{
+    background-color: coral;
+    box-shadow: 1px 2px;
+}
+
+.UserInfo1{
+    margin: 0 auto;
+    width: 100px; 
+    height: 120px;
+    margin-top: 20px;
+    border-color: azure;
+    border: 1px solid;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    padding-top: 5px;
+    
+}
